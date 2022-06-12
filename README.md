@@ -59,7 +59,7 @@
 <p align="right">
     <a href="https://app.daily.dev/shresthaneri">
         <img align="right" src="https://api.daily.dev/devcards/372bfaca1ef242478c524cb1e5561449.png?r=je3" width="300"
-            alt="Nerisha Shrestha's Dev Card" />
+            alt="Nerisha Shrestha's Dev Card"/>
     </a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shresthaneri&show_icons=true&locale=en&theme=dracula"
