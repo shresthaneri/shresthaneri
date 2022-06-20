@@ -8,7 +8,7 @@
 
 - 👨‍💻 My Portfolio [https://shresthaneri.github.io](https://shresthaneri.github.io)
 
-- 📫 How to reach me **shresthaneri@gmail.com**
+- 📫 How to reach me **shresthaneri@itsnp.org**
 
 - 📝 [My Resume](https://shresthaneri.github.io/Images/Nerisha%20Shrestha.pdf)
 
